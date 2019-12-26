@@ -1,0 +1,8 @@
+.git/
+.vs/
+VS/NeuroApp/.vs/
+VS/NeuroApp/Win32/
+VS/NeuroApp/NeuroApp/GeneratedFiles/
+VS/NeuroApp/NeuroApp/Debug/
+VS/NeuroApp/NeuroApp/Release/
+VS/NeuroApp/NeuroApp/Test.vcxproj.user

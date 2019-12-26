@@ -1,0 +1,7 @@
+<RCC>
+  <qresource prefix="/">
+    <file>Images/KEYBOARD_RUS.png</file>
+    <file>Images/KEYBOARD.png</file>
+    <file>Images/mouse-png-2.png</file>
+  </qresource>
+</RCC>
